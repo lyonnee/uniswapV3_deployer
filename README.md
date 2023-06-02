@@ -1,7 +1,7 @@
 # uniswapV3_deployer(Uniswap V3 部署工具)
 
 ## 部署准备
-### 拉去运行依赖
+### 拉取运行依赖
 ```shell
 npm i
 ```
